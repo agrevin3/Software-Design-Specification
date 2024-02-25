@@ -1,5 +1,4 @@
 # Software-Design-Specification
-***
 Ticket Hub
 
 By: Amelia Grevin, Elliot Gambale, Hannah Ferdows 
