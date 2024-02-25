@@ -1,5 +1,5 @@
 # Software-Design-Specification
-Ticket Hub
+Product name: Ticket Hub
 
 By: Amelia Grevin, Elliot Gambale, Hannah Ferdows 
 ***
