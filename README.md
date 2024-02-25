@@ -1,3 +1,6 @@
 # Software-Design-Specification
-Amelia Grevin, Elliot Gambale, Hannah Ferdows 
+Product name: Ticket Hub
 
+By: Amelia Grevin, Elliot Gambale, Hannah Ferdows 
+***
+The SRS file describes basic guidelines for...
