@@ -5,6 +5,9 @@ By: Amelia Grevin, Elliot Gambale, Hannah Ferdows
 ***
 Description:
 The SRS file describes basic guidelines for the construction of a new website. The site is an online ticketing system which should create an easy purchasing experience for movie theater guests. The SRS explains, in detail, the logistics of creating this platform. Find, in the first link, the updated SRS document. Find in the second link, details on the most recent addition to the project.
+
+The SRS has been updated to include the Software Design Specifications, which are sections 3.7 - 4.3.
+
 ***
 Partioning of Tasks:
 Tasks were devided evenly between our team members. Each member is meant to work on an assigned section of both our updated SRS, SDS, and the gitHub page. 
