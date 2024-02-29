@@ -8,6 +8,8 @@ The SRS file describes basic guidelines for the construction of a new website. T
 
 The SRS has been updated to include the Software Design Specifications, which are sections 3.7 - 4.3.
 
+The file SDS CS250 however has the necessary architecture and UML diagrams needed to complete the Software Design Speicifcation, as well as the sections which wereadded to the additional SRS (3.7-4.3).
+
 ***
 Partioning of Tasks:
 Tasks were devided evenly between our team members. Each member is meant to work on an assigned section of both our updated SRS, SDS, and the gitHub page. 
