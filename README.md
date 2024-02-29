@@ -8,6 +8,7 @@ The SRS file describes basic guidelines for the construction of a new website. T
 ***
 Partioning of Tasks:
 Tasks were devided evenly between our team members. Each member is meant to work on an assigned section of both our updated SRS, SDS, and the gitHub page. 
+***
 Team member Responsibilities:
 Amelia Grevin: Section 3.7-design constraints, Title page, project description/overview, pushing commits, and development plan.
 Elliot Gambale: Section 4: Analysis Models(4.1-Sequence Diagrams, 4.2-State-Transition Diagrams, 4.3-Data Flow Diagrams), and pushing commits
